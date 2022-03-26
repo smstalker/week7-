@@ -1,2 +1,2 @@
 # week7-
-HTML Project for PRomineo Tech Bootcamp
+HTML Project for Promineo Tech Bootcamp
